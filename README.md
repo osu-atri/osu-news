@@ -12,6 +12,8 @@ enableComments: true
 - 本站点
 - 我们的哔哩哔哩账号
 
+还有几篇翻译可以在[这里](https://ohdmire.github.io/osu)找到。
+
 祝阅读愉快！
 
 <!-- truncate -->
