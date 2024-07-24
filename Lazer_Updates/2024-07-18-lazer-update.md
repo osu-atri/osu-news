@@ -11,6 +11,14 @@ enableComments: true
 
 # osu!(lazer) 更新：2024 年 7 月 18 日
 
+:::info 信息
+
+本文章由 osu!ATRI 组织从 osu!wiki 的新闻页面搬运并翻译。
+
+原文链接：[osu!(lazer) Updates: July 18, 2024](https://osu.ppy.sh/home/news/2024-07-19-osu-lazer-updates-july-18-2024)
+
+:::
+
 来做个交易吧 - 你点下面的banner，我们给你最新的 osu!(lazer) 更新。
 
 ![Banner](https://i.ppy.sh/ff1479cd65f973f16ff97f9f0b43c3ee379a30e9/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f7368617265642f6e6577732f323032342d30372d31392d6f73752d6c617a65722d757064617465732d6a756c792d31382d323032342f62616e6e65722e6a7067)
