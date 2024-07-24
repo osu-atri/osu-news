@@ -1,6 +1,7 @@
 ---
 slug: index
 enableComments: true
+sidebar_position: 1
 ---
 
 # 主页：osu! 新闻翻译

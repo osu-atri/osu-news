@@ -6,8 +6,7 @@ image: https://i.ppy.sh/9349b0243b543a6f7cca3553cee9c3224a5e3c29/68747470733a2f2
 date: 2024-07-01T18:00
 slug: the-followpoint-neuro
 hide_table_of_contents: false
-sidebar_position: 1
-enableComments: true # for Gisqus
+enableComments: true
 ---
 
 # The Followpoint: Neuro-sama，入侵 osu! 的 AI 虚拟主播
