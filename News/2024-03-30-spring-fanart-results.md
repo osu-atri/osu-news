@@ -2,7 +2,7 @@
 authors:
   - name: Hivie
   - name: Walavouchey
-tags: [news]
+tags: [news, fanart, contest, 比赛, 社区]
 image: https://assets.ppy.sh/contests/205/banners/Tofumang.jpg
 date: 2024-03-30T03:00
 slug: news-spring2024-fanart-results
@@ -10,8 +10,7 @@ hide_table_of_contents: false
 enableComments: true
 ---
 
-
-# 2024年春季Fanart大赛结果 
+# 2024年春季Fanart大赛结果
 
 Created: 2024年7月26日 20:42
 
@@ -31,28 +30,25 @@ Created: 2024年7月26日 20:42
 
 ![https://assets.ppy.sh/contests/205/banners/KAITO%20thighs.jpg](https://assets.ppy.sh/contests/205/banners/KAITO%20thighs.jpg)
 
-**1915** 名投票者与由[**KAITO thighs**](https://osu.ppy.sh/users/13103233)(更为人知的名字是 *Dreamxiety*) 所创作的俏皮猫娘 pippi 的形象产生了共鸣。画面里，pippi 正在享受与银莲花亲密接触带来的愉快体验。
+**1915** 名投票者与由 [**KAITO thighs**](https://osu.ppy.sh/users/13103233) (更为人知的名字是 *Dreamxiety*) 所创作的俏皮猫娘 pippi 的形象产生了共鸣。画面里，pippi 正在享受与银莲花亲密接触带来的愉快体验。
 
 通过为这个作品投票，他们同时也接受了游玩 osu!catch 的邀请。伙计，君子一言，驷马难追！
 
 ![https://assets.ppy.sh/contests/205/banners/LeeNarie.jpg](https://assets.ppy.sh/contests/205/banners/LeeNarie.jpg)
 
-
-**1855** 位观众们接受了[**LeeNarie**](https://osu.ppy.sh/users/2667849)的邀请，同 pippi ， Aiko ， Chirou ， Mari 还有 Mocha 在充满新鲜空气的樱花树河堤上野餐。太鼓吉祥物 Don 和 oddly familiar cat 也跟着一起来啦。
+**1855** 位观众们接受了 [**LeeNarie**](https://osu.ppy.sh/users/2667849) 的邀请，同 pippi ， Aiko ， Chirou ， Mari 还有 Mocha 在充满新鲜空气的樱花树河堤上野餐。太鼓吉祥物 Don 和 oddly familiar cat 也跟着一起来啦。
 
 ![https://assets.ppy.sh/contests/205/banners/Kwms024.jpg](https://assets.ppy.sh/contests/205/banners/Kwms024.jpg)
 
-**1833** 位投票者由两种人组成：前者被画面中的怀旧感所打动。画面里，驾着筋斗云的 "悟空 pippi"，以及她的同伴 Mocha, Don 和 Yuzu 风格的转换既出人意料又令人惊叹。后者则单纯欣赏 [**Kwms024**](https://osu.ppy.sh/users/11516014)的精致作品，其中描绘了一位勤劳的园丁 pippi。
+**1833** 位投票者由两种人组成：前者被画面中的怀旧感所打动。画面里，驾着筋斗云的 "悟空 pippi"，以及她的同伴 Mocha, Don 和 Yuzu 风格的转换既出人意料又令人惊叹。后者则单纯欣赏 [**Kwms024**](https://osu.ppy.sh/users/11516014) 的精致作品，其中描绘了一位勤劳的园丁 pippi。
 
 当然，可能有人两种都喜欢！
 
 ![https://assets.ppy.sh/contests/205/banners/Amplui.jpg](https://assets.ppy.sh/contests/205/banners/Amplui.jpg)
 
-
 **1741** 名投票者为 [**Amplui**](https://osu.ppy.sh/users/24820805) 作品中展现的与世隔绝的静谧感投下了自己的宝贵一票。画面中，pippi 正在一个似乎与她心灵合拍的绝妙之地小憩，你懂的。
 
 ![https://assets.ppy.sh/contests/205/banners/tehfire.jpg](https://assets.ppy.sh/contests/205/banners/tehfire.jpg)
-
 
 在所有玩家当中，**1508** 位投票者无法抵挡 [**tehfire**](https://osu.ppy.sh/users/7082924) 笔下 pippi 与 Mocha 如玫瑰般美好场景的诱惑，希望能更近一步细细品味。在画面中，pippi 和 Mocha 身处玫瑰花园当中，身着玫瑰色礼服的 Mocha 对 pippi 来说也许有些过火了。
 
@@ -62,7 +58,7 @@ Created: 2024年7月26日 20:42
 
 ![https://assets.ppy.sh/contests/205/banners/Black%20Lynx.jpg](https://assets.ppy.sh/contests/205/banners/Black%20Lynx.jpg)
 
-**1409** 名投票者看见可爱的女仆 pippi 与 mocha (还有 Don) 在露营中做出的可爱举动，忍不住对  [**Black Lynx**](https://osu.ppy.sh/users/1193814) 让她们享用的零食都产生了嫉妒之情。
+**1409** 名投票者看见可爱的女仆 pippi 与 mocha (还有 Don) 在露营中做出的可爱举动，忍不住对 [**Black Lynx**](https://osu.ppy.sh/users/1193814) 让她们享用的零食都产生了嫉妒之情。
 
 ![https://assets.ppy.sh/contests/205/banners/Partyu.jpg](https://assets.ppy.sh/contests/205/banners/Partyu.jpg)
 
@@ -103,7 +99,6 @@ Mocha 惬意地坐在花团锦簇的小溪旁，完美融合了熟悉的角色�
 [**MapleSpe**](https://osu.ppy.sh/users/20991449) 让 pippi, Chirou 和 Mocha 造访了一座美不胜收的庭园，这座庭园被颗颗绽放的樱花所环绕，而樱花则被 *难以置信* 的明亮的阳光点亮。
 
 ![https://assets.ppy.sh/contests/205/banners/-_Y_u_m_i_J_i-.jpg](https://assets.ppy.sh/contests/205/banners/-_Y_u_m_i_J_i-.jpg)
-
 
 [**- Y u m i J i-**](https://osu.ppy.sh/users/7656048) 以难以置信的独特风格展现了这般景象：一位时尚的 pippi 正文雅地看向她粉得恰到好处的后院，从一根树杈上……我的天啊，在那可要小心点！
 
