@@ -8,7 +8,9 @@ sidebar_position: 1
 
 > [!IMPORTANT]
 > Say goodbye to submodules!
-> 再见，子模块！
+> 
+> **再见，子模块！**
+> 
 > 本仓库的内容已归档，后续工作将转到主仓库进行。
 
 欢迎来到 osu!news，osu! 新闻的翻译集合，也是 osu!dictionary 的一部分。
